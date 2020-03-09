@@ -15,15 +15,16 @@ Web Hosting and Domain Registration are like your property deeds for your site, 
 **Domain Registration**:
 
 1st year: free in most places
+
 Years after 1st year: £15-20 per year
 
-Total ongoing costs: £115 per year
+**Total ongoing costs**: £115 per year
 
-I'd recommend Bluehost as your Web Hosting, because in the 1st year, they give you a free domain and SSL certificate (what makes your site seem safe/secure to Google) and price-wise, they're affordable, compared to other Web Hosts. 
+I'd recommend Bluehost as your Web Hosting, because in the 1st year, they give you a free domain and SSL certificate (what makes your site seem safe/secure to Google) and pricewise, they're affordable, compared to other Web Hosts. 
 
 By having you do this rather than myself, it ensures you get the notices about renewal or issues with the account rather than needing me to act as a middleman to relay this information. This also ensures that you are in control of the accounts and you don't have to be concerned about unauthorised access due to users you aren't aware of.
 
-Once you are done signing up, you'll receive a "Welcome"-style email from Bluehost. Please forward that email to me. It will contain passwords and log in information I need in order to upload files and set up the official website.
+**Once you are done signing up, you'll receive a "Welcome"-style email from Bluehost. Please forward that email to me. It will contain passwords and log in information I need in order to upload files and set up the official website.**
 
 ## How to set it all up (we can also do this together over the phone/Skype, if you prefer)
 
@@ -78,10 +79,18 @@ N.B. The video says the domain is free. It's free for the 1st year in Bluehost f
 
 21) Click 'next'
 
-22) You'll see signs that WordPress is being installed e.g. 'Overall Site Progress... %'
+22) You'll see signs that WordPress is being installed e.g. 'Overall Site Progress... 65%'
 
 23) Wait until the site says 'Installation Complete'
 
 24) Click on 'view credentials here'
 
 25) Send me a photo of the page, which contains the 'username' and 'password'
+
+## 'Done' checklist
+
+- [x] Do you understand what Web Hosting and Domain Registration is and are you happy with the ongoing costs?
+- [x] Are you happy to talk to Bluehost if they contact you about payments?
+- [x] Do you understand that Bluehost take sites down if you haven't paid them for 30 days after the payments due?
+- [x] Have you sent me the 'Welcome'-style email from Bluehost?
+- [x] Have you sent me a photo of the page you got, after you clicked 'view credentials here'?
