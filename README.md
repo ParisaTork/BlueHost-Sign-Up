@@ -31,7 +31,7 @@ The first 3 minutes of this video shows step-by-step how to do things: https://y
 
 I've also added a list of steps here, to make things even more clearer than the video:
 
-1) Go to this affliate link, which gives you a discount on Web Hosting: https://www.bluehost.com/track/paz94/
+1) Go to this affiliate link, which gives you a discount on Web Hosting: https://www.bluehost.com/track/paz94/
 
 2) Click 'get started now'
 
