@@ -20,6 +20,8 @@ Years after 1st year: £15-20 per year
 
 **Total ongoing costs**: £115 per year
 
+## Recommendation and why owners need to manage Web Hosting + Domain Registration themselves
+
 I'd recommend Bluehost as your Web Hosting, because in the 1st year, they give you a free domain and SSL certificate (what makes your site seem safe/secure to Google) and pricewise, they're affordable, compared to other Web Hosts. 
 
 By having you do this rather than myself, it ensures you get the notices about renewal or issues with the account rather than needing me to act as a middleman to relay this information. This also ensures that you are in control of the accounts and you don't have to be concerned about unauthorised access due to users you aren't aware of.
@@ -28,7 +30,11 @@ By having you do this rather than myself, it ensures you get the notices about r
 
 ## How to set it all up (we can also do this together over the phone/Skype, if you prefer)
 
+### Video (first 3 minutes)
+
 The first 3 minutes of this video shows step-by-step how to do things: https://youtu.be/xt5L5RoaE5U?t=28
+
+### Detailed list of steps
 
 I've also added a list of steps here, to make things even more clearer than the video:
 
