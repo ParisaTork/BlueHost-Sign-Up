@@ -34,11 +34,11 @@ I've also added a list of steps here, to make things even more clearer than the 
 
 1) Go to this affiliate link, which gives you a discount on Web Hosting: https://www.bluehost.com/track/paz94/
 
-2) Click 'get started now'
+2) Click **'get started now'**
 
-3) Select the 'basic' plan.
+3) Select the **'basic'** plan.
 
-4) Click 'select'. 
+4) Click **'select'**. 
 
 5) Under 'new domain', type what you'd like your website to be called e.g. google.com.
 I'd recommend ath-driving-school.com for 2 reasons:
@@ -47,45 +47,45 @@ I'd recommend ath-driving-school.com for 2 reasons:
 
 N.B. The video says the domain is free. It's free for the 1st year in Bluehost for a 36-month contract. If you get a different contract, it's not free. Also, domains after the 1st year cost £15-20 a year. 
 
-6) After filling in ath-driving-school.com, select 'next'. 
+6) After filling in ath-driving-school.com, select **'next'**. 
 
-7) Fill in the 'account information'. 
+7) Fill in the **'account information'**. 
 
-8) In 'package information', pick the 'account plan' that best suits you. The total price of the 'account plan' will be in 'hosting price'.
+8) In **'package information'**, pick the **'account plan'** that best suits you. The total price of the **'account plan'** will be in **'hosting price'**.
 
-9) Make sure all the boxes in 'package information' are unchecked, so you don't get charged extra for anything. 
+9) Make sure all the boxes in **'package information'** are unchecked, so you don't get charged extra for anything. 
 
-10) Fill in the 'payment information'. 
+10) Fill in the **'payment information'**. 
 
-11) Check the 'I have read...' checkbox at the bottom.
+11) Check the **'I have read...'** checkbox at the bottom.
 
-12) Click submit.
+12) Click **'submit'**.
 
-13) Under the blue 'website' heading, click 'Install WordPress'
+13) Under the blue **'website'** heading, click **'Install WordPress'**
 
-14) Click under 'domain' and ath-driving-school.com should come up. 
+14) Click under **'domain'** and ath-driving-school.com should come up. 
 
-15) Click on ath-driving-school.com
+15) Click on **'ath-driving-school.com'**
 
-16) Click 'next'
+16) Click **'next'**
 
-17) Under 'Site Name or Title', write 'ATH Cambridge LTD' or 'ATH Driving School'. 
+17) Under **'Site Name or Title'**, write **'ATH Cambridge LTD'** or **'ATH Driving School'**. 
 
-18) Under 'Admin Email Address' and 'Admin Username', you can enter your email or my email.
+18) Under **'Admin Email Address**' and **'Admin Username'**, you can enter your email or my email.
 
-19) Under 'Admin Password', choose a password we can both use i.e. don't use a password you would use for anything else.
+19) Under **'Admin Password'**, choose a password we can both use i.e. don't use a password you would use for anything else.
 
-20) Make sure the 3 checkboxes underneath 'Admin Information' are checked
+20) Make sure the 3 checkboxes underneath **'Admin Information'** are checked
 
-21) Click 'next'
+21) Click **'next'**
 
-22) You'll see signs that WordPress is being installed e.g. 'Overall Site Progress... 65%'
+22) You'll see signs that WordPress is being installed e.g. **'Overall Site Progress... 65%'**
 
-23) Wait until the site says 'Installation Complete'
+23) Wait until the site says **'Installation Complete'**
 
-24) Click on 'view credentials here'
+24) Click on **'view credentials here'**
 
-25) Send me a photo of the page, which contains the 'username' and 'password'
+25) Send me a photo of the page, which contains the **'username'** and **'password'**
 
 ## 'Done' checklist
 
