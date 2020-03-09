@@ -89,8 +89,8 @@ N.B. The video says the domain is free. It's free for the 1st year in Bluehost f
 
 ## 'Done' checklist
 
-- [x] Do you understand what Web Hosting and Domain Registration is and are you happy with the ongoing costs?
-- [x] Are you happy to talk to Bluehost if they contact you about payments?
-- [x] Do you understand that Bluehost take sites down if you haven't paid them for 30 days after the payments due?
-- [x] Have you sent me the 'Welcome'-style email from Bluehost?
-- [x] Have you sent me a photo of the page you got, after you clicked 'view credentials here'?
+- [x] Do you understand what **Web Hosting** and **Domain Registration** is and are you happy with the ongoing costs?
+- [x] Are you happy to talk to **Bluehost** if they **contact you about payments**?
+- [x] Do you understand that **Bluehost** take sites down if you haven't paid them for **30 days after the payments due**?
+- [x] Have you forwarded me the **'Welcome'-style email** from **Bluehost**?
+- [x] Have you sent me a **photo** of the page you got, after you clicked **'view credentials here'**?
